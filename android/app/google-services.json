@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "373869586940",
+    "firebase_url": "https://fir-app123-61c58.firebaseio.com",
+    "project_id": "fir-app123-61c58",
+    "storage_bucket": "fir-app123-61c58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373869586940:android:90ee5ac434ed85c56a2a79",
+        "android_client_info": {
+          "package_name": "com.aaditya.firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373869586940-hj9h375t0h2ge89sb71piqrhr139jeo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADxB37SHLCMTsHeeivOCQeDqd5fafacHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373869586940-hj9h375t0h2ge89sb71piqrhr139jeo3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
